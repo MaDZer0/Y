@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-logging-1.2">
+    <archive path="/Users/zhongjie/Downloads/commons-logging-1.2/commons-logging-1.2.jar" />
+  </library>
+  <library name="iText-2.1.4">
+    <archive path="/Users/zhongjie/Documents/Java/pdfReader/lib/iText-2.1.4.jar" />
+  </library>
+  <library name="iTextAsian">
+    <archive path="/Users/zhongjie/Documents/Java/pdfReader/lib/iTextAsian.jar" />
+  </library>
+  <library name="pdfbox-1.8.9">
+    <archive path="/Users/zhongjie/Documents/Java/pdfReader/lib/pdfbox-1.8.9.jar" />
+  </library>
+  <library name="fontbox-1.8.9">
+    <archive path="/Users/zhongjie/Documents/Java/pdfReader/lib/fontbox-1.8.9.jar" />
+  </library>
+</eclipse-userlibraries>
+

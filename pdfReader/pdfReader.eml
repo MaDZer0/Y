@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/pdfReader"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="iTextAsian" value="project"/>
+		<level name="commons-logging-1.2" value="project"/>
+		<level name="pdfbox-2.0.12" value="project"/>
+		<level name="pdfbox-tools-2.0.12" value="project"/>
+		<level name="fontbox-2.0.12" value="project"/>
+		<level name="commons-lang" value="project"/>
+		<level name="iText-5.0.5" value="project"/>
+		<level name="pdfbox-2.0.16" value="project"/>
+		<level name="pdfbox-tools-2.0.16" value="project"/>
+		<level name="fontbox-2.0.16" value="project"/>
+		<level name="pdfbox-debugger-2.0.16" value="project"/>
+		<level name="preflight-2.0.16" value="project"/>
+	</levels>
+</component>
